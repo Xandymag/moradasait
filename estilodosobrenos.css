@@ -1,0 +1,9 @@
+/*
+ * CSS Base
+ */
+
+/* Seleciona o corpo da página */
+body {
+	 /** Muda a cor do fundo da página **/
+    background-color: #e6e6e6;
+}
